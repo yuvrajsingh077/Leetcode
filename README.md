@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0001-two-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0001-two-sum) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
