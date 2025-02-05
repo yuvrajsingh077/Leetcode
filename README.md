@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
