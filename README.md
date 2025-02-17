@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1160-letter-tile-possibilities](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1160-letter-tile-possibilities](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/YuvrajSingh01234/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/YuvrajSingh01234/Leetcode/tree/master/1160-letter-tile-possibilities) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajSingh01234/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
