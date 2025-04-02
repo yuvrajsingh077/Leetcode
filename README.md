@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/YuvrajSingh01234/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/YuvrajSingh01234/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/YuvrajSingh01234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/YuvrajSingh01234/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/YuvrajSingh01234/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
